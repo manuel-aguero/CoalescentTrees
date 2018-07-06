@@ -1,3 +1,4 @@
+__author__ = "Manuel Aguero"
 import numpy as np
 
 #This function calculates the Jukes-Cantor distance between two sequences
